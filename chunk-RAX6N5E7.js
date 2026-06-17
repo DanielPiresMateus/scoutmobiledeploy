@@ -1,0 +1,1 @@
+import{c as r}from"./chunk-5L6PB4EE.js";import{h as e}from"./chunk-B7O3QC5Z.js";var o=class extends r{canOpenUrl(n){return e(this,null,function*(){return{value:!0}})}openUrl(n){return e(this,null,function*(){return window.open(n.url,"_blank"),{completed:!0}})}};export{o as AppLauncherWeb};

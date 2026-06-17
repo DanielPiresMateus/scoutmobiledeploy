@@ -1,0 +1,1 @@
+import{Va as c,e as o,n,q as p}from"./chunk-DITMLRKN.js";var f=(()=>{let t=class t{constructor(r){this.http=r,this.url="https://viacep.com.br/ws/"}getEnderecoByCep(r){return this.http.get(this.url+r+"/json/").pipe(o(e=>e))}};t.\u0275fac=function(e){return new(e||t)(p(c))},t.\u0275prov=n({token:t,factory:t.\u0275fac,providedIn:"root"});let i=t;return i})();export{f as a};

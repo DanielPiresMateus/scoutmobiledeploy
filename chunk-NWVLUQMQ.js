@@ -1,0 +1,1 @@
+var o={companySlug:"scout-mobile-base",companyName:"Scout Mobile Futebol de base",whatsapp:"5562992131856",supportEmail:"scoutmobilebase@gmail.com.com.br",website:"https://www.scoutmobile.com.br",AppURL:"https://danielpiresmateus.github.io/goiania-desentupidora/",systmobile:"62992131856",telefoneEmpresa:"62992131856",UrlApi:"https://scoutmobileapi.onrender.com/"};export{o as a};
